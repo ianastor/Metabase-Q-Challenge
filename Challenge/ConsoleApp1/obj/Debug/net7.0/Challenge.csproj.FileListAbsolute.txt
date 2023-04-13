@@ -1,0 +1,5 @@
+C:\Users\ianas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Challenge.csproj.AssemblyReference.cache
+C:\Users\ianas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\ianas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Challenge.AssemblyInfo.cs
+C:\Users\ianas\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Challenge.csproj.CoreCompileInputs.cache
